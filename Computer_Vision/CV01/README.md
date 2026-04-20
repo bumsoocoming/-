@@ -45,7 +45,8 @@
 
        반복될 수 있는 여백 제거와 알파 블렌딩 로직을 별도의 함수로 분리하여 코드의 가독성을 높였고, PEP8 스타일을 준수하여 변수명과 구조가 명확합니다.
        
-         <img width="759" height="886" alt="image" src="https://github.com/user-attachments/assets/c9fd0a45-d14b-448e-8ffe-e578912d5d49" />
+<img width="759" height="886" alt="image" src="https://github.com/user-attachments/assets/bb863989-2654-47c8-a65b-558bdcf59847" />
+
 
 
 
