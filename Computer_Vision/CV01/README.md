@@ -20,7 +20,7 @@
 
      overlay_alpha 함수: 단순 합성이 아닌 알파 블렌딩 공식을 코드(alpha * fg + (1 - alpha) * bg)로 직접 구현하여 스티커의 투명도가 배경과 어색하지 않게 잘 어우러지도록 처리했습니다
 
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부 <img width="831" height="550" alt="image" src="https://github.com/user-attachments/assets/b4de3cc0-46a8-4b2a-bf51-32e97bb8a28b" />
+         <img width="831" height="550" alt="image" src="https://github.com/user-attachments/assets/b4de3cc0-46a8-4b2a-bf51-32e97bb8a28b" />
 
         
 - [x]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
@@ -44,7 +44,7 @@
 
        반복될 수 있는 여백 제거와 알파 블렌딩 로직을 별도의 함수로 분리하여 코드의 가독성을 높였고, PEP8 스타일을 준수하여 변수명과 구조가 명확합니다.
        
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부 <img width="759" height="886" alt="image" src="https://github.com/user-attachments/assets/f6deae87-f390-4a11-aaf6-9e28ccc219d4" />
+         <img width="759" height="886" alt="image" src="https://github.com/user-attachments/assets/f6deae87-f390-4a11-aaf6-9e28ccc219d4" />
 
 
 
